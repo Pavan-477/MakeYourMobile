@@ -1,0 +1,460 @@
+mobile_name,mobile_price,mobile_color,Sims,disp_size,resolution,os,num_cores,mp_speed,int_memory,ram,battery_power,mob_width,mob_height,mob_depth,mob_weight,Brand,5G_connectivity,VOLTE_connectivity,4G_connectivity,3G_connectivity,2G_connectivity,primary_cam,secondary_cam,tertiary_cam,quaternary_cam,Low_light_sensor,f_cam_primary,f_cam_secondary
+Narzo 10A ,8999,White,2,6.52,HD+,Android 10,Octa Core,2.0,32,3,5000,75.0,164.4,8.95,195.0,Realme,No,Yes,No,Yes,Yes,12,2,2,0,No,5,0
+Narzo 10A ,8999,Blue,2,6.52,HD+,Android 10,Octa Core,2.0,32,3,5000,75.0,164.4,8.95,195.0,Realme,No,Yes,No,Yes,Yes,12,2,2,0,No,5,0
+Narzo 10A ,9999,Blue,2,6.52,HD+,Android 10,Octa Core,2.0,64,4,5000,75.0,164.4,8.95,195.0,Realme,No,Yes,No,Yes,Yes,12,2,2,0,No,5,0
+Narzo 10A ,9999,White,2,6.52,HD+,Android 10,Octa Core,2.0,64,4,5000,75.0,164.4,8.95,195.0,Realme,No,Yes,No,Yes,Yes,12,2,2,0,No,5,0
+Narzo 10 ,11999,Green,2,6.5,HD+,Android 10,Octa Core,2.0,128,4,5000,75.4,164.4,9.0,199.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+Narzo 10 ,11999,White,2,6.5,HD+,Android 10,Octa Core,2.0,128,4,5000,75.4,164.4,9.0,199.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+5 Pro ,14999,Green,2,6.3,FHD+,Android Pie 9,Octa Core,2.3,64,6,4035,74.2,157.0,8.9,184.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+5 Pro ,16999,Green,2,6.3,FHD+,Android Pie 9,Octa Core,2.3,128,8,4035,74.2,157.0,8.9,184.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+5 Pro ,16999,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.3,128,8,4035,74.2,157.0,8.9,184.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+5 Pro ,13999,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.3,64,4,4035,74.2,157.0,8.9,184.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+X2 Pro ,35999,White,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,256,12,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,35999,Blue,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,256,12,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,31999,Blue,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,128,8,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,31999,White,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,128,8,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+2 Pro ,15490,Black,2,6.3,FHD+,Android Oreo 8,Octa Core,1.95,128,8,3500,74.0,156.7,8.5,174.0,Realme,No,Yes,No,Yes,Yes,16,2,0,0,No,16,0
+XT ,16999,Blue,2,6.4,FHD+,Android Pie 9,Octa Core,2.3,64,4,4000,75.16,158.7,8.55,183.0,Realme,No,No,Yes,Yes,Yes,64,8,2,2,No,16,0
+XT ,16999,White,2,6.4,FHD+,Android Pie 9,Octa Core,2.3,64,4,4000,75.16,158.7,8.55,183.0,Realme,No,No,Yes,Yes,Yes,64,8,2,2,No,16,0
+X50 Pro ,41999,Red,2,6.44,FHD+,Android 10,Octa Core,2.8,128,8,4200,74.24,158.96,9.65,207.0,Realme,Yes,Yes,No,Yes,Yes,64,12,8,2,No,32,8
+X50 Pro ,41999,Green,2,6.44,FHD+,Android 10,Octa Core,2.8,128,8,4200,74.24,158.96,9.65,207.0,Realme,Yes,Yes,No,Yes,Yes,64,12,8,2,No,32,8
+X50 Pro ,46999,Green,2,6.44,FHD+,Android 10,Octa Core,2.8,256,12,4200,74.24,158.96,9.65,207.0,Realme,Yes,Yes,No,Yes,Yes,64,12,8,2,No,32,8
+C3 ,8999,Blue,2,6.52,HD+,Android 10,Octa Core,2.0,32,3,5000,75.0,164.4,8.95,195.0,Realme,No,Yes,No,Yes,Yes,12,2,0,0,No,5,0
+6 ,16999,White,2,6.5,FHD+,Android 10,Octa Core,2.05,128,6,4300,74.8,162.1,9.6,191.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,16,0
+6 Pro ,19999,Orange,2,6.6,FHD+,Android 10,Octa Core,2.3,128,8,4300,75.8,163.9,9.4,195.0,Realme,No,Yes,No,Yes,Yes,64,12,8,2,No,16,8
+6 Pro ,19999,Blue,2,6.6,FHD+,Android 10,Octa Core,2.3,128,8,4300,75.8,163.9,9.4,195.0,Realme,No,Yes,No,Yes,Yes,64,12,8,2,No,16,8
+C2 ,6999,Black,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,2,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+C2 ,6999,Blue,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,2,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+C2 ,7499,Black,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+C2 ,7499,Blue,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+C2 ,7499,Red,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+6 ,17999,Blue,2,6.5,FHD+,Android 10,Octa Core,2.05,128,8,4300,74.8,162.1,9.6,191.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,16,0
+C2 ,7499,Violet,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+5 Pro ,13999,Green,2,6.3,FHD+,Android Pie 9,Octa Core,2.3,64,4,4035,74.2,157.0,8.9,184.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+5s ,11999,Red,2,6.5,HD+,Android Pie 9,Octa Core,2.0,128,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,10999,Blue,2,6.5,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,11999,Purple,2,6.5,HD+,Android Pie 9,Octa Core,2.0,128,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,10999,Red,2,6.5,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,11999,Blue,2,6.5,HD+,Android Pie 9,Octa Core,2.0,128,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,10999,Purple,2,6.5,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+X2 Pro ,29999,Blue,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,64,6,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,29999,White,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,64,6,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,36999,Red,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,256,12,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,36999,Gray,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,256,12,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+6 ,17999,White,2,6.5,FHD+,Android 10,Octa Core,2.05,128,8,4300,74.8,162.1,9.6,191.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,16,0
+C2 ,7499,Violet,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+5 Pro ,13999,Green,2,6.3,FHD+,Android Pie 9,Octa Core,2.3,64,4,4035,74.2,157.0,8.9,184.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+5s ,11999,Red,2,6.5,HD+,Android Pie 9,Octa Core,2.0,128,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,10999,Blue,2,6.5,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,11999,Purple,2,6.5,HD+,Android Pie 9,Octa Core,2.0,128,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,10999,Red,2,6.5,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,11999,Blue,2,6.5,HD+,Android Pie 9,Octa Core,2.0,128,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+5s ,10999,Purple,2,6.5,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,75.6,164.4,9.3,198.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,13,0
+X2 Pro ,29999,Blue,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,64,6,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,29999,White,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,64,6,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,36999,Red,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,256,12,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 Pro ,36999,Gray,2,6.5,FHD+,Android Pie 9,Octa Core,2.96,256,12,4000,75.7,161.0,8.7,199.0,Realme,No,Yes,No,Yes,Yes,64,13,8,2,No,16,0
+X2 ,19999,White,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,19999,Green,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,17999,Blue,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,64,4,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,17999,Green,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,64,4,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,20999,Green,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,128,8,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,19999,Blue,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,20999,Blue,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,128,8,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+X2 ,20999,White,2,6.4,FHD+,Android Pie 9,Octa Core,2.2,128,8,4000,75.2,158.7,8.6,182.0,Realme,No,Yes,No,Yes,Yes,64,8,2,2,No,32,0
+C2 ,6499,Blue,2,6.1,HD+,Android Pie 9,Octa Core,2.0,16,2,4000,73.7,154.3,8.5,166.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+Narzo 10 ,11999,Blue,2,6.5,HD+,Android 10,Octa Core,2.0,128,4,5000,75.4,164.4,9.0,199.0,Realme,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+X3 ,25999,Blue,2,6.57,FHD+,Android 10,Octa Core,2.96,128,8,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,12,8,2,No,16,8
+X3 ,24999,Blue,2,6.57,FHD+,Android 10,Octa Core,2.96,128,6,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,12,8,2,No,16,8
+X3 ,25999,White,2,6.57,FHD+,Android 10,Octa Core,2.96,128,8,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,12,8,2,No,16,8
+X3 SuperZoom ,27999,Blue,2,6.57,FHD+,Android 10,Octa Core,2.96,128,8,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,8,8,2,No,32,8
+X3 SuperZoom ,32999,Blue,2,6.57,FHD+,Android 10,Octa Core,2.96,256,12,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,8,8,2,No,32,8
+X3 SuperZoom ,32999,White,2,6.57,FHD+,Android 10,Octa Core,2.96,256,12,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,8,8,2,No,32,8
+X3 SuperZoom ,27999,White,2,6.57,FHD+,Android 10,Octa Core,2.96,128,8,4200,75.8,163.8,9.3,202.0,Realme,No,Yes,No,Yes,Yes,64,8,8,2,No,32,8
+3 ,8499,Black,2,6.22,HD+,Android Pie 9,Octa Core,2.1,32,3,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+3 ,9499,Red,2,6.22,HD+,Android Pie 9,Octa Core,2.1,64,4,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+3 ,9499,Blue,2,6.22,HD+,Android Pie 9,Octa Core,2.1,64,3,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+3 ,9499,Black,2,6.22,HD+,Android Pie 9,Octa Core,2.1,64,3,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+3 ,8499,Red,2,6.22,HD+,Android Pie 9,Octa Core,2.1,32,3,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+3 ,10499,Blue,2,6.22,HD+,Android Pie 9,Octa Core,2.1,64,4,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+3 ,10499,Black,2,6.22,HD+,Android Pie 9,Octa Core,2.1,64,4,4230,75.6,156.1,8.3,175.0,Realme,No,Yes,No,Yes,Yes,13,2,0,0,No,13,0
+8 ,9799,Blue,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,4,5000,75.41,156.48,9.4,188.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,8,0
+8 ,9799,Black,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,4,5000,75.41,156.48,9.4,188.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,8,0
+K20 Pro ,24999,Red,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 9 Pro ,16999,Blue,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+K20 Pro ,24999,Black,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+A3 ,16939,White,2,6.08,HD+,Android Pie 9,Octa Core,2.0,128,6,4030,71.85,153.48,8.475,173.8,Mi,No,Yes,No,Yes,Yes,48,8,2,0,No,32,0
+K20 Pro ,24999,Blue,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 7 Pro ,16999,Black,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,128,6,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+A3 ,14999,Blue,2,6.08,HD+,Android Pie 9,Octa Core,2.0,128,6,4030,71.85,153.48,8.475,173.8,Mi,No,Yes,No,Yes,Yes,48,8,2,0,No,32,0
+Mix 2 ,16999,Black,2,5.99,FHD+,Android Nougat 7,Octa Core,2.5,128,6,3400,75.49,151.86,7.7,185.0,Mi,No,Yes,No,Yes,Yes,12,0,0,0,No,5,0
+K20 Pro ,24999,White,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+A3 ,17350,Gray,2,6.08,HD+,Android Pie 9,Octa Core,2.0,128,6,4030,71.85,153.48,8.475,173.8,Mi,No,Yes,No,Yes,Yes,48,8,2,0,No,32,0
+K20 Pro ,29999,Black,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,256,8,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 7 Pro ,13999,Red,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,128,6,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+K20 ,21999,Black,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,64,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Y2 ,13495,Gold,2,5.99,HD+,Android Oreo 8,Octa Core,2.0,64,4,3080,77.26,160.73,8.1,168.0,Redmi,No,No,Yes,Yes,Yes,12,5,0,0,No,16,0
+K20 Pro ,29999,White,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,256,8,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+K20 ,24999,Blue,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 6 Pro ,15990,Gold,2,6.26,FHD+,Android Oreo 8,Octa Core,1.8,64,4,4000,76.4,157.9,8.26,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,2
+A2 ,13999,Red,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+10 ,55799,Gray,2,6.67,FHD+,Android 10,Octa Core,2.84,256,8,4780,74.8,162.58,8.96,209.0,Mi,Yes,Yes,No,Yes,Yes,108,0,0,0,No,20,0
+10 ,51800,Green,2,6.67,FHD+,Android 10,Octa Core,2.84,128,8,4780,74.8,162.58,8.96,209.0,Mi,Yes,Yes,No,Yes,Yes,108,0,0,0,No,20,0
+K20 ,24999,Red,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+A2 ,16899,Red,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,128,6,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+A2 ,16899,Gold,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,128,6,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+K20 ,24999,Black,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+A2 ,16899,Blue,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,128,6,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+Note 5 Pro ,16999,Red,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+K20 ,24999,White,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,128,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+3 ,13999,Gray,1,5.0,FHD,Android KitKat 4,Quad Core,2.3,16,2,3050,73.6,144.0,8.1,145.0,Mi,No,No,Yes,Yes,Yes,13,0,0,0,No,2,0
+8 ,9799,Green,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,4,5000,75.41,156.48,9.4,188.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,8,0
+8 ,9799,Red,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,4,5000,75.41,156.48,9.4,188.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,8,0
+8 ,9799,Black,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,4,5000,75.41,156.48,9.4,188.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,8,0
+A3 ,12999,Gray,2,6.088,HD+,Android Pie 9,Octa Core,2.0,64,4,4030,71.85,153.48,8.475,173.8,Mi,No,Yes,No,Yes,Yes,48,8,2,0,No,32,0
+Note 9 Pro ,14999,Black,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+Note 9 Pro ,14999,Blue,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+Note 9 Pro ,16998,Blue,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+8A Dual ,7399,Blue,2,6.22,HD+,Android Pie 9,Octa Core,2.0,32,2,5000,92.0,175.0,9.0,186.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+8A Dual ,7499,Gray,2,6.22,HD+,Android Pie 9,Octa Core,2.0,32,3,5000,92.0,175.0,9.0,186.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Note 8 ,11199,White,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,64,4,4000,75.3,158.3,8.35,190.0,Redmi,No,Yes,No,Yes,Yes,48,8,0,0,No,13,0
+Note 8 ,13261,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,128,6,4000,75.3,158.3,8.35,190.0,Redmi,No,Yes,No,Yes,Yes,48,8,0,0,No,13,0
+Note 8 ,10978,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,32,3,4000,75.3,158.3,8.35,190.0,Redmi,No,Yes,No,Yes,Yes,48,8,0,0,No,13,0
+A3 ,12999,Blue,2,6.088,HD+,Android Pie 9,Octa Core,2.0,64,4,4030,71.85,153.48,8.475,173.8,Mi,No,Yes,No,Yes,Yes,48,8,2,0,No,32,0
+A3 ,12999,White,2,6.088,HD+,Android Pie 9,Octa Core,2.0,64,4,4030,71.85,153.48,8.475,173.8,Mi,No,Yes,No,Yes,Yes,48,8,2,0,No,32,0
+Note 8 ,11280,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,64,4,4000,75.3,158.3,8.35,190.0,Redmi,No,Yes,No,Yes,Yes,48,8,0,0,No,13,0
+Note 8 ,10100,Black,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,64,4,4000,75.3,158.3,8.35,190.0,Redmi,No,Yes,No,Yes,Yes,48,8,0,0,No,13,0
+8A Dual ,7450,White,2,6.22,HD+,Android Pie 9,Octa Core,2.0,32,3,5000,92.0,175.0,9.0,186.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Note 7 Pro ,12999,Black,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,64,6,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+K20 Pro ,29999,Red,2,6.39,FHD+,Android Pie 9,Octa Core,2.84,256,8,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 9 Pro ,12999,White,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+Note 9 Pro ,12999,Black,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+8A Dual ,7499,Blue,2,6.22,HD+,Android Pie 9,Octa Core,2.0,32,3,5000,92.0,175.0,9.0,186.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Note 6 Pro ,11999,Black,2,6.26,FHD+,Android Oreo 8,Octa Core,1.8,64,6,4000,76.4,157.9,8.26,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,2
+Note 6 Pro ,11999,Red,2,6.26,FHD+,Android Oreo 8,Octa Core,1.8,64,6,4000,76.4,157.9,8.26,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,2
+Note 4 ,12999,Black,2,5.5,FHD,Android Marshmallow 6,Octa Core,2.0,64,4,4100,76.0,151.0,8.4,165.0,Redmi,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Note 6 Pro ,11999,Gold,2,6.26,FHD+,Android Oreo 8,Octa Core,1.8,64,6,4000,76.4,157.9,8.26,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,2
+K20 ,21999,Blue,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,64,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 5 Pro ,12999,Gold,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,4,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 7 Pro ,13999,White,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,128,6,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+Note 9 Pro Max ,16999,Black,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5020,76.68,165.5,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,64,8,5,2,No,32,0
+Note 9 Pro Max ,16999,White,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5020,76.68,165.5,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,64,8,5,2,No,32,0
+8A ,6999,Red,2,6.22,HD+,Android Pie 9,Octa Core,1.95,32,2,5000,75.41,156.48,9.4,188.0,Redmi,No,Yes,No,Yes,Yes,12,0,0,0,No,8,0
+Note 7 Pro ,10999,Black,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,64,4,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+10 ,55400,Green,2,6.67,FHD+,Android 10,Octa Core,2.84,256,8,4780,74.8,162.58,8.96,209.0,Mi,Yes,Yes,No,Yes,Yes,108,0,0,0,No,20,0
+Note 5 Pro ,13999,Black,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 5 Pro ,16999,Gold,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 5 Pro ,12999,Red,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,4,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+A2 ,13999,Red,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+Note 5 Pro ,17999,Gold,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+A2 ,13999,Blue,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+Go ,6700,Blue,2,5.0,HD+,Android Oreo 8,Quad Core,1.4,16,1,3000,70.1,140.4,8.35,137.0,Redmi,No,Yes,No,Yes,Yes,8,0,0,0,No,5,0
+Note 5 Pro ,12999,Black,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,4,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 7S ,9999,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,32,3,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+Y2 ,8499,Gold,2,5.99,HD+,Android Oreo 8,Octa Core,2.0,64,4,3080,77.26,160.73,8.1,168.0,Redmi,No,No,Yes,Yes,Yes,12,5,0,0,No,16,0
+7A ,6699,Black,2,5.45,HD+,Android Pie 9,Octa Core,2.0,32,2,4000,70.4,146.3,9.55,165.0,Redmi,No,Yes,No,Yes,Yes,12,0,0,0,No,5,0
+Note 7S ,11999,Black,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,64,4,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+Y2 ,7999,Blue,2,5.99,HD+,Android Oreo 8,Octa Core,2.0,32,3,3080,77.26,160.73,8.1,168.0,Redmi,No,No,Yes,Yes,Yes,12,5,0,0,No,16,0
+Y2 ,8499,Black,2,5.99,HD+,Android Oreo 8,Octa Core,2.0,64,4,3080,77.26,160.73,8.1,168.0,Redmi,No,No,Yes,Yes,Yes,12,5,0,0,No,16,0
+Note 7 ,9999,Black,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,32,3,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,13,0
+7A ,6499,Black,2,5.45,HD+,Android Pie 9,Octa Core,2.0,16,2,4000,70.4,146.3,9.55,165.0,Redmi,No,Yes,No,Yes,Yes,12,0,0,0,No,5,0
+6 ,7999,Gold,2,5.45,HD+,Android Oreo 8,Octa Core,2.0,32,3,3000,71.5,147.5,8.3,146.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,5,0
+Note 7 ,9999,Red,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,32,3,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,13,0
+Note 7S ,11999,Red,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,64,4,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+7A ,6499,Gold,2,5.45,HD+,Android Pie 9,Octa Core,2.0,16,2,4000,70.4,146.3,9.55,165.0,Redmi,No,Yes,No,Yes,Yes,12,0,0,0,No,5,0
+Note 5 Pro ,13999,Blue,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 5 Pro ,12999,Blue,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,4,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Y3 ,8369,Blue,2,6.26,HD+,Android Pie 9,Octa Core,1.8,32,3,4000,75.58,158.73,8.47,180.0,Redmi,No,No,Yes,Yes,Yes,12,2,0,0,No,32,0
+Y3 ,8090,Black,2,6.26,HD+,Android Pie 9,Octa Core,1.8,32,3,4000,75.58,158.73,8.47,180.0,Redmi,No,No,Yes,Yes,Yes,12,2,0,0,No,32,0
+Note 7 ,9999,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,32,3,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,13,0
+K20 ,21999,Red,2,6.39,FHD+,Android Pie 9,Octa Core,2.2,64,6,4000,74.3,156.7,8.8,191.0,Redmi,No,Yes,No,Yes,Yes,48,13,8,0,No,20,0
+Note 7S ,9999,White,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,32,3,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+10 ,55400,Green,2,6.67,FHD+,Android 10,Octa Core,2.84,256,8,4780,74.8,162.58,8.96,209.0,Mi,Yes,Yes,No,Yes,Yes,108,0,0,0,No,20,0
+Note 5 Pro ,13999,Black,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 5 Pro ,16999,Gold,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+Note 5 Pro ,12999,Red,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,4,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+A2 ,13999,Red,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+Note 5 Pro ,17999,Gold,2,5.99,FHD+,Android Nougat 7,Octa Core,1.8,64,6,4000,75.35,158.58,8.05,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+A2 ,13999,Blue,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+Go ,6700,Blue,2,5.0,HD+,Android Oreo 8,Quad Core,1.4,16,1,3000,70.1,140.4,8.35,137.0,Redmi,No,Yes,No,Yes,Yes,8,0,0,0,No,5,0
+Note 4 ,13999,Gold,2,5.5,FHD,Android Marshmallow 6,Octa Core,2.0,64,4,4100,76.0,151.0,8.4,165.0,Redmi,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+8A Dual ,8499,White,2,6.22,HD+,Android Pie 9,Octa Core,2.0,32,2,5000,92.0,175.0,9.0,186.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+8A Dual ,8498,Gray,2,6.22,HD+,Android Pie 9,Octa Core,2.0,32,2,5000,92.0,175.0,9.0,186.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+8A Dual ,9990,White,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,3,5000,75.41,156.48,9.4,191.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+8A Dual ,9990,Blue,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,3,5000,75.41,156.48,9.4,191.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Note 6 Pro ,11349,Black,2,6.26,FHD+,Android Oreo 8,Octa Core,1.8,64,4,4000,76.4,157.9,8.26,181.0,Redmi,No,Yes,No,Yes,Yes,12,5,0,0,No,20,2
+Note 7 Pro ,16999,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.0,128,6,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,48,5,0,0,No,13,0
+8A Dual ,9999,Gray,2,6.22,HD+,Android Pie 9,Octa Core,1.95,64,3,5000,75.41,156.48,9.4,191.0,Redmi,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Note 9 Pro ,19999,White,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5020,76.68,165.75,8.8,209.0,Redmi,No,Yes,No,Yes,Yes,48,8,5,2,No,16,0
+Note 7 ,14800,Blue,2,6.3,FHD+,Android Pie 9,Octa Core,2.2,64,4,4000,75.21,159.21,8.1,186.0,Redmi,No,Yes,No,Yes,Yes,12,2,0,0,No,13,0
+A2 ,13990,Gold,2,5.99,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3010,75.4,158.7,7.3,168.0,Mi,No,Yes,No,Yes,Yes,20,12,0,0,No,20,0
+7A ,6699,Gold,2,5.45,HD+,Android Pie 9,Octa Core,2.0,32,2,4000,70.4,146.3,9.55,165.0,Redmi,No,Yes,No,Yes,Yes,12,0,0,0,No,5,0
+Y2 ,8689,Gold,2,5.99,HD+,Android Oreo 8,Octa Core,2.0,32,3,3080,77.26,160.73,8.1,168.0,Redmi,No,No,Yes,Yes,Yes,12,5,0,0,No,16,0
+Y1 ,11599,Gray,2,5.5,HD+,Android Nougat 7,Octa Core,1.4,64,4,3080,76.2,153.0,7.7,154.0,Redmi,No,No,Yes,Yes,Yes,13,0,0,0,No,16,0
+Y2 ,7999,Gray,2,5.99,HD+,Android Oreo 8,Octa Core,2.0,32,3,3080,77.26,160.73,8.1,168.0,Redmi,No,No,Yes,Yes,Yes,12,5,0,0,No,16,0
+Y12 ,9900,Red,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+U10 ,10990,Black,2,6.35,HD+,Android Pie 9,Octa Core,2.0,32,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+Y11 ,10849,Blue,2,6.35,HD+,Android Pie 9,Octa Core,1.95,32,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Z1x ,16990,Blue,2,6.38,FHD+,Android Pie 9,Octa Core,2.3,64,6,4500,75.23,159.53,8.13,189.6,Vivo,No,No,Yes,Yes,Yes,48,8,2,0,No,32,0
+Z1x ,16990,Purple,2,6.38,FHD+,Android Pie 9,Octa Core,2.3,64,6,4500,75.23,159.53,8.13,189.6,Vivo,No,No,Yes,Yes,Yes,48,8,2,0,No,32,0
+Z1x ,18990,Blue,2,6.38,FHD+,Android Pie 9,Octa Core,2.3,128,8,4500,75.23,159.53,8.13,189.6,Vivo,No,No,Yes,Yes,Yes,48,8,2,0,No,32,0
+Z1x ,18990,Purple,2,6.38,FHD+,Android Pie 9,Octa Core,2.3,128,8,4500,75.23,159.53,8.13,189.6,Vivo,No,No,Yes,Yes,Yes,48,8,2,0,No,32,0
+Y15 ,12990,Red,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,16,0
+Y11 ,10849,Red,2,6.35,HD+,Android Pie 9,Octa Core,1.95,32,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+S1 Pro ,19990,Black,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,8,4500,75.19,159.25,8.68,186.7,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,0
+S1 Pro ,19990,Blue,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,8,4500,75.19,159.25,8.68,186.7,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,0
+S1 Pro ,19990,White,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,8,4500,75.19,159.25,8.68,186.7,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,0
+Y91i ,8990,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,3,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y91i ,11982,Blue,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,3,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y50 ,17990,White,2,6.53,FHD+,Android 10,Octa Core,2.0,128,8,5000,76.46,162.04,9.11,197.0,Vivo,No,Yes,No,Yes,Yes,13,8,2,2,No,16,0
+Y50 ,17990,Blue,2,6.53,FHD+,Android 10,Octa Core,2.0,128,8,5000,76.46,162.04,9.11,197.0,Vivo,No,Yes,No,Yes,Yes,13,8,2,2,No,16,0
+Z1Pro ,17990,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,128,6,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Z1Pro ,13990,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,4,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Z1Pro ,17990,Blue,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,128,6,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Y91i ,8705,Blue,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y91i ,8949,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y19 ,16375,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.0,128,4,5000,76.47,162.15,8.89,193.0,Vivo,No,No,Yes,Yes,Yes,16,8,2,0,No,16,0
+V19 ,31990,Silver,2,6.44,FHD+,Android 10,Octa Core,2.3,256,8,4500,75.04,159.64,8.5,186.5,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,8
+V19 ,27990,Silver,2,6.44,FHD+,Android 10,Octa Core,2.3,128,8,4500,75.04,159.64,8.5,186.5,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,8
+V19 ,27990,Black,2,6.44,FHD+,Android 10,Octa Core,2.3,128,8,4500,75.04,159.64,8.5,186.5,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,8
+V19 ,31990,Black,2,6.44,FHD+,Android 10,Octa Core,2.3,256,8,4500,75.04,159.64,8.5,186.5,Vivo,No,Yes,No,Yes,Yes,48,8,2,2,No,32,8
+V17 ,24990,White,2,6.44,FHD+,Android Pie 9,Octa Core,2.0,128,8,4500,74.17,159.01,8.54,176.0,Vivo,No,No,Yes,Yes,Yes,48,8,2,2,No,32,0
+V17 ,24990,Black,2,6.44,FHD+,Android Pie 9,Octa Core,2.0,128,8,4500,74.17,159.01,8.54,176.0,Vivo,No,No,Yes,Yes,Yes,48,8,2,2,No,32,0
+U10 ,11990,Blue,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+S1 ,18990,Blue,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,64,6,4500,75.23,159.53,8.13,179.0,Vivo,No,No,Yes,Yes,Yes,16,8,2,0,No,32,0
+S1 ,16990,Blue,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,4,4500,75.23,159.53,8.13,179.0,Vivo,No,No,Yes,Yes,Yes,16,8,2,0,No,32,0
+S1 ,19990,Blue,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,6,4500,75.23,159.53,8.13,179.0,Vivo,No,No,Yes,Yes,Yes,16,8,2,0,No,32,0
+S1 ,16990,Black,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,4,4500,75.23,159.53,8.13,179.0,Vivo,No,No,Yes,Yes,Yes,16,8,2,0,No,32,0
+S1 ,19990,Black,2,6.38,FHD+,Android Pie 9,Octa Core,2.0,128,6,4500,75.23,159.53,8.13,179.0,Vivo,No,No,Yes,Yes,Yes,16,8,2,0,No,32,0
+Y91i ,9199,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,16,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+V15 Pro ,22399,Blue,2,6.39,FHD+,Android Pie 9,Octa Core,2.0,128,6,3700,74.71,157.25,8.21,185.0,Vivo,No,Yes,No,Yes,Yes,48,5,8,0,No,32,0
+Y17 ,13990,Purple,2,6.35,HD+,Android Pie 9,Octa Core,2.3,128,4,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,20,0
+V15 Pro ,21099,Red,2,6.39,FHD+,Android Pie 9,Octa Core,2.0,128,6,3700,74.71,157.25,8.21,185.0,Vivo,No,Yes,No,Yes,Yes,48,8,5,0,No,32,0
+V17Pro ,29499,Black,2,6.44,FHD+,Android Pie 9,Octa Core,2.0,128,8,4100,74.7,159.0,9.8,201.8,Vivo,No,No,Yes,Yes,Yes,48,13,8,2,No,32,8
+V17Pro ,29499,White,2,6.44,FHD+,Android Pie 9,Octa Core,2.0,128,8,4100,74.7,159.0,9.8,201.8,Vivo,No,No,Yes,Yes,Yes,48,13,8,2,No,32,8
+U10 ,11490,Black,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+V15 Pro ,28499,Blue,2,6.39,FHD+,Android Pie 9,Octa Core,2.0,128,8,3700,74.71,157.25,8.21,185.0,Vivo,No,Yes,No,Yes,Yes,48,8,5,0,No,32,0
+V11 Pro ,28990,Black,2,6.41,FHD+,Android Oreo 8,Octa Core,1.95,64,6,3400,75.08,157.91,7.9,156.0,Vivo,No,Yes,No,Yes,Yes,12,5,0,0,No,25,0
+NEX ,29990,Black,2,6.59,HD+,Android Oreo 8,Octa Core,2.8,128,8,4000,77.0,162.0,7.98,199.0,Vivo,No,Yes,No,Yes,Yes,12,5,0,0,No,8,0
+Y81 ,13990,Black,2,6.1,HD+,Android Oreo 8,Octa Core,2.0,32,3,3260,75.0,155.06,7.77,148.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+V9 Youth ,16990,Black,2,6.3,FHD+,Android Oreo 8,Octa Core,1.8,32,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,16,2,0,0,No,16,0
+V15 ,21099,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,64,6,4000,75.93,161.97,8.54,189.5,Vivo,No,Yes,No,Yes,Yes,12,5,8,0,No,32,0
+Y93 ,15500,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Y93 ,14990,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,64,3,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Y91 ,11990,Blue,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+V7 ,18900,Black,2,5.7,HD+,Android Nougat 7,Octa Core,1.8,32,4,3000,72.8,149.3,7.9,139.0,Vivo,No,Yes,No,Yes,Yes,16,0,0,0,No,24,0
+V7 ,15990,Blue,2,5.7,HD+,Android Nougat 7,Octa Core,1.8,32,4,3000,72.8,149.3,7.9,139.0,Vivo,No,Yes,No,Yes,Yes,16,0,0,0,No,24,0
+Y83 ,11999,Gold,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,3260,75.24,155.21,7.7,151.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+V9 ,24000,Gold,2,6.3,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,16,5,0,0,No,24,0
+Y71i ,8900,Black,2,6.0,HD+,Android Oreo 8,Quad Core,1.4,16,2,3360,75.74,155.87,7.8,150.0,Vivo,No,Yes,No,Yes,Yes,8,0,0,0,No,5,0
+Y93 ,15990,Purple,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+U10 ,10990,Blue,2,6.35,HD+,Android Pie 9,Octa Core,2.0,32,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+Z1Pro ,14990,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,6,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Z1Pro ,13990,Blue,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,4,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Z1Pro ,14990,Blue,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,6,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+U10 ,12990,Blue,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+U10 ,12990,Black,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+V9 Pro ,17990,Black,2,6.3,FHD+,Android Oreo 8,Octa Core,1.95,64,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,16,0
+V9 Pro ,17990,Purple,2,6.3,FHD+,Android Oreo 8,Octa Core,1.95,64,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,16,0
+Y81 ,11500,Gold,2,6.1,HD+,Android Oreo 8,Octa Core,2.0,32,3,3260,75.0,155.06,7.77,148.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+V9 Youth ,17999,Gold,2,6.3,FHD+,Android Oreo 8,Octa Core,1.8,32,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,16,2,0,0,No,16,0
+Y91 ,9990,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,3,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Y71 ,10900,Gold,2,6.0,HD+,Android Oreo 8,Quad Core,1.4,16,3,3360,75.74,155.87,7.8,150.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y71 ,12000,Black,2,6.0,HD+,Android Oreo 8,Quad Core,1.4,32,4,3360,75.74,155.87,7.8,150.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+V7+ ,22325,Blue,2,5.99,HD+,Android Nougat 7,Octa Core,1.8,64,4,3225,75.74,155.87,7.7,160.0,Vivo,No,Yes,No,Yes,Yes,16,0,0,0,No,24,0
+Y55S ,13995,Black,2,5.2,HD+,Android Marshmallow 6,Quad Core,1.4,16,3,2730,72.9,149.9,7.5,142.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y55S ,13529,Gray,2,5.2,HD+,Android Marshmallow 6,Quad Core,1.4,16,3,2730,72.9,149.9,7.5,142.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y81i ,11990,Gold,2,6.22,HD+,Android Oreo 8,Quad Core,2.0,16,2,3260,75.0,155.06,7.77,143.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y93 ,15500,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Y93 ,14990,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,64,3,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Y91 ,11990,Blue,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+V7 ,18900,Black,2,5.7,HD+,Android Nougat 7,Octa Core,1.8,32,4,3000,72.8,149.3,7.9,139.0,Vivo,No,Yes,No,Yes,Yes,16,0,0,0,No,24,0
+V7 ,15990,Blue,2,5.7,HD+,Android Nougat 7,Octa Core,1.8,32,4,3000,72.8,149.3,7.9,139.0,Vivo,No,Yes,No,Yes,Yes,16,0,0,0,No,24,0
+Y83 ,11999,Gold,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,3260,75.24,155.21,7.7,151.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+V9 ,24000,Gold,2,6.3,FHD+,Android Oreo 8,Octa Core,2.2,64,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,16,5,0,0,No,24,0
+Y71i ,8900,Black,2,6.0,HD+,Android Oreo 8,Quad Core,1.4,16,2,3360,75.74,155.87,7.8,150.0,Vivo,No,Yes,No,Yes,Yes,8,0,0,0,No,5,0
+Y93 ,15990,Purple,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Z1Pro ,13990,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,4,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Z1Pro ,14990,Black,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,6,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+Z1Pro ,14990,Blue,2,6.53,FHD+,Android Pie 9,Octa Core,2.3,64,6,5000,77.33,162.39,8.85,201.0,Vivo,No,Yes,No,Yes,Yes,16,2,8,0,No,32,0
+U10 ,12990,Blue,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+U10 ,11490,Black,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,3,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+U10 ,12990,Black,2,6.35,HD+,Android Pie 9,Octa Core,2.0,64,4,5000,76.77,159.43,8.92,190.5,Vivo,No,Yes,No,Yes,Yes,13,8,2,0,No,8,0
+V9 Pro ,17990,Black,2,6.3,FHD+,Android Oreo 8,Octa Core,1.95,64,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,16,0
+V9 Pro ,17990,Purple,2,6.3,FHD+,Android Oreo 8,Octa Core,1.95,64,4,3260,75.03,154.81,7.89,150.0,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,16,0
+Y71 ,10900,Black,2,6.0,HD+,Android Oreo 8,Quad Core,1.4,16,3,3360,75.74,155.87,7.8,150.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y71 ,12000,Gold,2,6.0,HD+,Android Oreo 8,Quad Core,1.4,32,4,3360,75.74,155.87,7.8,150.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y91i ,8998,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Y91 ,8990,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,2,4030,75.09,155.11,8.28,163.5,Vivo,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Y69 ,14914,Gold,2,5.5,HD+,Android Nougat 7,Octa Core,1.5,32,3,3000,75.7,154.6,7.7,162.8,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,16,0
+Y81 ,14538,Black,2,6.22,HD+,Android Oreo 8,Octa Core,2.0,32,4,3260,75.0,155.06,7.77,148.0,Vivo,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+Galaxy M30S ,17490,Blue,2,6.4,FHD+,Android Pie 9,Octa Core,2.3,128,4,6000,75.0,159.0,9.0,186.0,Samsung,No,Yes,No,Yes,Yes,48,8,0,0,No,16,0
+Galaxy A21s ,16499,Blue,2,6.5,HD+,Android 10,Octa Core,2.0,64,4,5000,75.3,163.6,8.9,191.0,Samsung,No,No,Yes,Yes,Yes,48,8,2,2,No,13,0
+Galaxy A21s ,16499,Black,2,6.5,HD+,Android 10,Octa Core,2.0,64,4,5000,75.3,163.6,8.9,191.0,Samsung,No,No,Yes,Yes,Yes,48,8,2,2,No,13,0
+Galaxy A21s ,18499,Blue,2,6.5,HD+,Android 10,Octa Core,2.0,64,6,5000,75.3,163.6,8.9,191.0,Samsung,No,No,Yes,Yes,Yes,48,8,2,2,No,13,0
+Galaxy A21s ,18499,White,2,6.5,HD+,Android 10,Octa Core,2.0,64,6,5000,75.3,163.6,8.9,191.0,Samsung,No,No,Yes,Yes,Yes,48,8,2,2,No,13,0
+Galaxy A21s ,18499,Black,2,6.5,HD+,Android 10,Octa Core,2.0,64,6,5000,75.3,163.6,8.9,191.0,Samsung,No,No,Yes,Yes,Yes,48,8,2,2,No,13,0
+Galaxy A21s ,17490,White,2,6.5,HD+,Android 10,Octa Core,2.0,64,4,5000,75.3,163.6,8.9,191.0,Samsung,No,No,Yes,Yes,Yes,48,8,2,2,No,13,0
+Galaxy M21 ,15999,Blue,2,6.4,FHD+,Android 10,Octa Core,2.3,64,4,6000,75.0,159.0,9.0,188.0,Samsung,No,Yes,No,Yes,Yes,48,8,5,0,No,20,0
+Galaxy M21 ,15990,Black,2,6.4,FHD+,Android 10,Octa Core,2.3,64,4,6000,75.0,159.0,9.0,188.0,Samsung,No,Yes,No,Yes,Yes,48,8,5,0,No,20,0
+Galaxy J2 Core ,6299,Black,2,5.0,qHD,Android Oreo 8,Quad Core,1.4,16,1,2600,72.1,143.4,8.95,154.0,Samsung,No,No,Yes,Yes,Yes,8,0,0,0,No,5,0
+Galaxy M31 ,19900,Blue,2,6.4,FHD+,Android 10,Octa Core,2.3,128,6,6000,75.0,159.0,9.0,191.0,Samsung,No,Yes,No,Yes,Yes,64,8,5,5,No,32,0
+Galaxy S10 Lite ,47999,Blue,2,6.7,FHD+,Android 10,Octa Core,2.8,512,8,4500,75.6,162.5,8.1,187.0,Samsung,No,Yes,No,Yes,Yes,48,12,5,0,No,32,0
+Galaxy S10 Lite ,47999,Black,2,6.7,FHD+,Android 10,Octa Core,2.8,512,8,4500,75.6,162.5,8.1,187.0,Samsung,No,Yes,No,Yes,Yes,48,12,5,0,No,32,0
+Galaxy J2-2017 ,6000,Gold,2,4.7,qHD,Android Lollipop 5,Quad Core,1.3,8,1,2000,69.0,136.5,8.4,130.0,Samsung,No,No,Yes,Yes,Yes,5,0,0,0,No,2,0
+Galaxy J7 Pro ,20995,Black,2,5.5,FHD,Android Nougat 7,Octa Core,1.6,64,3,3600,74.7,152.4,7.8,178.0,Samsung,No,No,Yes,Yes,Yes,13,0,0,0,No,13,0
+Galaxy J7 Nxt ,11995,Black,2,5.5,HD+,Android Nougat 7,Octa Core,1.6,16,2,3000,78.6,152.4,7.6,170.0,Samsung,No,No,Yes,Yes,Yes,13,0,0,0,No,5,0
+Galaxy J7 Nxt ,10995,Gold,2,5.5,HD+,Android Nougat 7,Octa Core,1.6,16,2,3000,78.6,152.4,7.6,170.0,Samsung,No,No,Yes,Yes,Yes,13,0,0,0,No,5,0
+Hot 9 Pro ,9999,Violet,2,6.6,HD+,Android 10,Octa Core,2.0,64,4,5000,76.8,165.0,8.7,185.0,Infinix,No,Yes,No,Yes,Yes,48,2,2,0,Yes,8,0
+Hot 9 Pro ,9999,Green,2,6.6,HD+,Android 10,Octa Core,2.0,64,4,5000,76.8,165.0,8.7,185.0,Infinix,No,Yes,No,Yes,Yes,48,2,2,0,Yes,8,0
+Hot 9 ,8999,Violet,2,6.6,HD+,Android 10,Octa Core,2.0,64,4,5000,76.8,165.0,8.7,185.0,Infinix,No,Yes,No,Yes,Yes,13,2,2,0,Yes,8,0
+Hot 9 ,8999,Green,2,6.6,HD+,Android 10,Octa Core,2.0,64,4,5000,76.8,165.0,8.7,185.0,Infinix,No,Yes,No,Yes,Yes,13,2,2,0,Yes,8,0
+Note 5 Stylus ,10999,Blue,2,5.93,FHD+,Android Oreo 8,Octa Core,2.0,64,4,4000,75.0,158.0,8.4,190.0,Infinix,No,Yes,No,Yes,Yes,16,0,0,0,No,16,0
+S5 Pro ,11499,Green,2,6.53,FHD+,Android 10,Octa Core,2.3,64,4,4000,76.88,162.5,8.95,194.0,Infinix,No,Yes,No,Yes,Yes,48,2,0,0,No,16,0
+S5 Pro ,11499,Violet,2,6.53,FHD+,Android 10,Octa Core,2.3,64,4,4000,76.88,162.5,8.95,194.0,Infinix,No,Yes,No,Yes,Yes,48,2,0,0,No,16,0
+Note 5 Stylus ,10999,Red,2,5.93,FHD+,Android Oreo 8,Octa Core,2.0,64,4,4000,75.0,158.0,8.4,190.0,Infinix,No,Yes,No,Yes,Yes,16,0,0,0,No,16,0
+Hot S3X ,10999,Gray,2,6.2,HD+,Android Oreo 8,Octa Core,1.4,32,3,4000,75.3,156.7,8.3,150.0,Infinix,No,No,Yes,Yes,Yes,13,2,0,0,No,16,0
+Hot S3X ,10999,Black,2,6.2,HD+,Android Oreo 8,Octa Core,1.4,32,3,4000,75.3,156.7,8.3,150.0,Infinix,No,No,Yes,Yes,Yes,13,2,0,0,No,16,0
+Note 5 ,7699,Blue,2,5.99,FHD+,Android Oreo 8,Octa Core,2.0,64,4,4500,75.25,158.25,8.65,175.0,Infinix,No,Yes,No,Yes,Yes,12,0,0,0,No,16,0
+Note 5 ,7699,Gray,2,5.99,FHD+,Android Oreo 8,Octa Core,2.0,64,4,4500,75.25,158.25,8.65,175.0,Infinix,No,Yes,No,Yes,Yes,12,0,0,0,No,16,0
+Hot 7 ,9999,Black,2,6.19,HD+,Android Pie 9,Octa Core,2.39,64,4,4000,74.8,153.9,7.9,159.0,Infinix,No,No,Yes,Yes,Yes,13,2,0,0,No,13,2
+Hot 7 ,9999,Brown,2,6.19,HD+,Android Pie 9,Octa Core,2.39,64,4,4000,74.8,153.9,7.9,159.0,Infinix,No,No,Yes,Yes,Yes,13,2,0,0,No,13,2
+Hot 7 ,9999,Blue,2,6.19,HD+,Android Pie 9,Octa Core,2.39,64,4,4000,74.8,153.9,7.9,159.0,Infinix,No,No,Yes,Yes,Yes,13,2,0,0,No,13,2
+Note 5 ,7599,Gray,2,5.99,FHD+,Android Oreo 8,Octa Core,2.0,32,3,4500,75.25,158.25,8.65,175.0,Infinix,No,Yes,No,Yes,Yes,12,0,0,0,No,16,0
+Hot S3 ,11999,Blue,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,64,4,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+Hot S3 ,11999,Black,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,64,4,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+Hot S3 ,11999,Gold,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,64,4,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+S5 Lite ,8499,Violet,2,6.6,HD+,Android Pie 9,Octa Core,2.0,64,4,4000,76.0,164.0,7.9,178.0,Infinix,No,No,Yes,Yes,Yes,16,2,0,0,No,16,0
+S5 Lite ,8499,Cyan,2,6.6,HD+,Android Pie 9,Octa Core,2.0,64,4,4000,76.0,164.0,7.9,178.0,Infinix,No,No,Yes,Yes,Yes,16,2,0,0,No,16,0
+S5 Lite ,8499,Black,2,6.6,HD+,Android Pie 9,Octa Core,2.0,64,4,4000,76.0,164.0,7.9,178.0,Infinix,No,No,Yes,Yes,Yes,16,2,0,0,No,16,0
+Note 5 ,7599,Black,2,5.99,FHD+,Android Oreo 8,Octa Core,2.0,32,3,4500,75.25,158.25,8.65,175.0,Infinix,No,Yes,No,Yes,Yes,12,0,0,0,No,16,0
+Zero 5 Pro ,19999,Black,2,5.98,FHD,Android Nougat 7,Octa Core,2.6,128,6,4350,82.38,166.38,7.95,197.0,Infinix,No,Yes,No,Yes,Yes,12,13,0,0,No,16,0
+S4 ,9599,Blue,2,6.21,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,75.0,156.0,7.9,155.0,Infinix,No,Yes,No,Yes,Yes,13,8,2,0,No,32,0
+S4 ,9599,Purple,2,6.21,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,75.0,156.0,7.9,155.0,Infinix,No,Yes,No,Yes,Yes,13,8,2,0,No,32,0
+S4 ,9599,Gray,2,6.21,HD+,Android Pie 9,Octa Core,2.0,32,3,4000,75.0,156.0,7.9,155.0,Infinix,No,Yes,No,Yes,Yes,13,8,2,0,No,32,0
+S5 ,9599,Cyan,2,6.6,HD+,Android Pie 9,Octa Core,2.0,64,4,4000,76.0,164.0,7.9,178.0,Infinix,No,Yes,No,Yes,Yes,16,5,2,0,Yes,32,0
+S5 ,9599,Violet,2,6.6,HD+,Android Pie 9,Octa Core,2.0,64,4,4000,76.0,164.0,7.9,178.0,Infinix,No,Yes,No,Yes,Yes,16,5,2,0,Yes,32,0
+Hot S3 ,9999,Gold,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,32,3,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+Hot S3 ,9999,Black,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,32,3,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+Hot S3 ,9999,Blue,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,32,3,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+Hot S3 ,9999,Red,2,5.65,HD+,Android Oreo 8,Octa Core,1.4,32,3,4000,72.85,153.0,8.4,150.0,Infinix,No,Yes,No,Yes,Yes,13,0,0,0,No,20,0
+Note 5 ,7699,Black,2,5.99,FHD+,Android Oreo 8,Octa Core,2.0,64,4,4500,75.25,158.25,8.65,175.0,Infinix,No,Yes,No,Yes,Yes,12,0,0,0,No,16,0
+Zero 5 ,17999,Black,2,5.98,FHD,Android Nougat 7,Octa Core,2.6,64,6,4350,82.38,166.38,7.95,197.0,Infinix,No,Yes,No,Yes,Yes,12,13,0,0,No,16,0
+Zero 5 ,17999,Red,2,5.98,FHD,Android Nougat 7,Octa Core,2.6,64,6,4350,82.38,166.38,7.95,197.0,Infinix,No,Yes,No,Yes,Yes,12,13,0,0,No,16,0
+F1 ,18999,Blue,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,128,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,22999,Blue,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,256,8,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,22999,Black,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,256,8,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,22999,Red,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,256,8,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,19999,Red,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,64,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+X2 ,21499,Purple,2,6.67,FHD+,Android 10,Octa Core,2.2,256,8,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,17499,Purple,2,6.67,FHD+,Android 10,Octa Core,2.2,64,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,17499,Blue,2,6.67,FHD+,Android 10,Octa Core,2.2,64,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,18499,Red,2,6.67,FHD+,Android 10,Octa Core,2.2,128,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,18499,Blue,2,6.67,FHD+,Android 10,Octa Core,2.2,128,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,21499,Blue,2,6.67,FHD+,Android 10,Octa Core,2.2,256,8,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,21499,Red,2,6.67,FHD+,Android 10,Octa Core,2.2,256,8,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 ,17499,Red,2,6.67,FHD+,Android 10,Octa Core,2.2,64,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 Special Edition ,18499,Purple,2,6.67,FHD+,Android 10,Octa Core,2.2,128,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+F1 ,18999,Red,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,128,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,18999,Black,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,128,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,22999,Red,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,256,8,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,18999,Red,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,128,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+X2 Special Edition ,18499,Blue,2,6.67,FHD+,Android 10,Octa Core,2.2,128,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+X2 Special Edition ,18499,Red,2,6.67,FHD+,Android 10,Octa Core,2.2,128,6,4500,76.6,165.3,8.79,208.0,POCO,No,Yes,No,Yes,Yes,64,8,2,2,No,20,2
+F1 ,19999,Blue,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,64,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+F1 ,19999,Black,2,6.18,FHD+,Android Oreo 8,Octa Core,2.8,64,6,4000,75.3,155.5,8.8,180.0,POCO,No,Yes,No,Yes,Yes,12,5,0,0,No,20,0
+M2 Pro ,14999,Green,2,6.67,FHD+,Android 10,Octa Core,2.3,64,6,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,16999,Green,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,13999,Green,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,16999,Blue,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,16999,Black,2,6.67,FHD+,Android 10,Octa Core,2.3,128,6,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,14999,Black,2,6.67,FHD+,Android 10,Octa Core,2.3,64,6,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,14999,Blue,2,6.67,FHD+,Android 10,Octa Core,2.3,64,6,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,13999,Black,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+M2 Pro ,13999,Blue,2,6.67,FHD+,Android 10,Octa Core,2.3,64,4,5000,76.68,165.75,8.8,209.0,POCO,No,No,Yes,Yes,Yes,48,8,5,2,No,16,0
+A31 ,12490,White,2,6.5,HD+,Android Pie 9,Octa Core,2.3,64,4,4230,75.5,163.9,8.3,180.0,OPPO,No,Yes,No,Yes,Yes,12,2,2,0,No,8,0
+A31 ,14990,White,2,6.5,HD+,Android Pie 9,Octa Core,2.3,128,6,4230,75.5,163.9,8.3,180.0,OPPO,No,Yes,No,Yes,Yes,12,2,2,0,No,8,0
+A31 ,14990,Black,2,6.5,HD+,Android Pie 9,Octa Core,2.3,128,6,4230,75.5,163.9,8.3,180.0,OPPO,No,Yes,No,Yes,Yes,12,2,2,0,No,8,0
+A31 ,12490,Black,2,6.5,HD+,Android Pie 9,Octa Core,2.3,64,4,4230,75.5,163.9,8.3,180.0,OPPO,No,Yes,No,Yes,Yes,12,2,2,0,No,8,0
+A9 2020 ,16990,Green,2,6.5,HD+,Android Pie 9,Octa Core,1.8,128,4,5000,75.6,163.6,9.1,195.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+A12 ,9990,Black,2,6.22,HD+,Android Pie 9,Octa Core,1.8,32,3,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+A12 ,9990,Blue,2,6.22,HD+,Android Pie 9,Octa Core,1.8,32,3,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+A5s ,8990,Blue,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,32,2,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+F15 ,18990,White,2,6.4,FHD+,Android Pie 9,Octa Core,2.1,128,8,4000,73.3,160.2,7.9,172.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+F15 ,18990,Blue,2,6.4,FHD+,Android Pie 9,Octa Core,2.1,128,8,4000,73.3,160.2,7.9,172.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+A52 ,16990,Black,2,6.5,FHD+,Android 10,Octa Core,2.0,128,6,5000,75.5,162.0,8.9,192.0,OPPO,No,Yes,No,Yes,Yes,12,8,2,2,No,16,0
+A52 ,16990,White,2,6.5,FHD+,Android 10,Octa Core,2.0,128,6,5000,75.5,162.0,8.9,192.0,OPPO,No,Yes,No,Yes,Yes,12,8,2,2,No,16,0
+A11K ,8990,Blue,2,6.22,HD+,Android Pie 9,Octa Core,1.8,32,2,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+A11K ,8990,Silver,2,6.22,HD+,Android Pie 9,Octa Core,1.8,32,2,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+A5s ,11990,Green,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,64,4,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+A9 2020 ,15990,Purple,2,6.5,HD+,Android Pie 9,Octa Core,1.8,128,8,5000,75.6,163.6,9.1,195.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+F15 ,18990,Black,2,6.4,FHD+,Android Pie 9,Octa Core,2.1,128,8,4000,73.3,160.2,7.9,172.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+A5s ,15899,Gold,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,64,4,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+Reno3 Pro ,29990,White,2,6.4,FHD+,Android 10,Octa Core,2.2,128,8,4025,73.4,158.8,8.1,175.0,OPPO,No,Yes,No,Yes,Yes,64,13,8,2,No,44,2
+Reno3 Pro ,29990,Blue,2,6.4,FHD+,Android 10,Octa Core,2.2,128,8,4025,73.4,158.8,8.1,175.0,OPPO,No,Yes,No,Yes,Yes,64,13,8,2,No,44,2
+Reno3 Pro ,29990,Black,2,6.4,FHD+,Android 10,Octa Core,2.2,128,8,4025,73.4,158.8,8.1,175.0,OPPO,No,Yes,No,Yes,Yes,64,13,8,2,No,44,2
+A5s ,12990,Black,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,32,2,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+F11 Pro ,14990,Black,2,6.5,FHD+,Android Pie 9,Octa Core,2.1,64,6,4000,76.1,161.3,8.8,190.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+Reno 10x Zoom ,41990,Green,2,6.6,FHD+,Android Pie 9,Octa Core,2.8,256,8,4065,77.2,162.0,9.3,215.0,OPPO,No,Yes,No,Yes,Yes,48,13,8,0,No,16,0
+Reno2 ,38990,Blue,2,6.5,FHD+,Android Pie 9,Octa Core,2.2,256,8,4000,74.3,160.0,9.5,189.0,OPPO,No,No,Yes,Yes,Yes,48,8,13,2,No,16,0
+Find X ,60990,Blue,2,6.4,FHD+,Android Oreo 8,Octa Core,2.649,256,8,3730,74.2,156.7,9.6,186.0,OPPO,No,Yes,No,Yes,Yes,16,20,0,0,No,25,0
+Find X ,60990,Red,2,6.4,FHD+,Android Oreo 8,Octa Core,2.649,256,8,3730,74.2,156.7,9.6,186.0,OPPO,No,Yes,No,Yes,Yes,16,20,0,0,No,25,0
+Reno2 Z ,29999,Black,2,6.5,FHD+,Android Pie 9,Octa Core,2.2,256,8,4000,75.8,161.8,8.67,195.0,OPPO,No,No,Yes,Yes,Yes,48,8,2,2,No,16,0
+A83 ,14499,Gold,2,5.7,HD+,Android Nougat 7,Octa Core,2.5,64,4,3180,73.1,150.5,7.7,143.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+A9 2020 ,15990,White,2,6.52,HD+,Android Pie 9,Octa Core,1.8,128,8,5000,75.6,163.6,9.1,195.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+A5s ,13744,Blue,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,32,3,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+A5s ,12990,Red,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,32,2,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+A5s ,9490,Black,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,32,3,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+K1 ,18989,Black,2,6.41,FHD+,Android Oreo 8,Octa Core,1.95,64,6,3600,75.5,158.3,7.4,156.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,25,0
+F9 Pro ,19990,Red,2,6.3,FHD+,Android Oreo 8,Octa Core,2.0,64,6,3500,74.0,156.7,7.99,169.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,25,0
+K1 ,19038,Blue,2,6.41,FHD+,Android Oreo 8,Octa Core,1.95,64,6,3600,75.5,158.3,7.4,156.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,25,0
+F11 ,17990,Green,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,128,6,4020,76.1,162.0,8.3,188.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+A1K ,8490,Red,2,6.1,HD+,Android Pie 9,Octa Core,2.0,32,2,4000,77.35,154.4,8.35,165.0,OPPO,No,Yes,No,Yes,Yes,8,0,0,0,No,5,0
+A7 ,13990,Gold,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,64,3,4230,75.4,155.9,8.1,168.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,16,0
+F9 Pro ,19990,Blue,2,6.3,FHD+,Android Oreo 8,Octa Core,2.0,64,6,3500,74.0,156.7,7.99,169.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,25,0
+K1 ,19600,Blue,2,6.41,FHD+,Android Oreo 8,Octa Core,1.95,64,4,3600,75.5,158.3,7.4,156.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,25,0
+F9 Pro ,21150,Purple,2,6.3,FHD+,Android Oreo 8,Octa Core,2.0,64,6,3500,74.0,156.7,7.99,169.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,25,0
+A7 ,17500,Blue,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,64,4,4230,75.4,155.9,8.1,168.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,16,0
+A5s ,12990,Red,2,6.2,HD+,Android Oreo 8,Octa Core,2.3,32,3,4230,75.4,155.9,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+A3s ,14495,Red,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,64,4,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+A3s ,9500,Red,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,16,2,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+A3s ,9500,Purple,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,16,2,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+A9 2020 ,13990,White,2,6.52,HD+,Android Pie 9,Octa Core,1.8,128,4,5000,75.6,163.6,9.1,195.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+A12 ,11490,Black,2,6.22,HD+,Android Pie 9,Octa Core,1.8,64,4,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+A12 ,11490,Blue,2,6.22,HD+,Android Pie 9,Octa Core,1.8,64,4,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+F11 Pro ,16990,Gray,2,6.5,FHD+,Android Pie 9,Octa Core,2.1,128,6,4000,76.1,161.3,8.8,190.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+F11 Pro ,16990,Black,2,6.5,FHD+,Android Pie 9,Octa Core,2.1,128,6,4000,76.1,161.3,8.8,190.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+R17 Pro ,31590,Blue,2,6.4,FHD+,Android Oreo 8,Octa Core,2.2,128,8,3700,74.6,157.6,7.9,183.0,OPPO,No,No,Yes,Yes,Yes,12,20,0,0,No,25,0
+A83 ,13490,Black,2,5.7,HD+,Android Nougat 7,Octa Core,2.5,32,3,3180,73.1,150.5,7.7,143.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+A83 ,9490,Red,2,5.7,HD+,Android Nougat 7,Octa Core,2.5,16,2,3180,73.1,150.5,7.7,143.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+F7 ,22990,Red,2,6.23,FHD+,Android Oreo 8,Octa Core,2.0,64,4,3400,75.3,156.0,7.8,158.0,OPPO,No,No,Yes,Yes,Yes,16,0,0,0,No,25,0
+F11 ,13990,Green,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,128,4,4020,76.1,162.0,8.3,188.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+F11 ,13990,Purple,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,128,4,4020,76.1,162.0,8.3,188.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+F11 ,17990,White,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,128,6,4020,76.1,162.0,8.3,188.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+F1S ,18990,Gold,2,5.5,HD+,Android Lollipop 5,Octa Core,1.4,64,4,3075,76.0,154.5,7.38,160.0,OPPO,No,No,Yes,Yes,Yes,13,0,0,0,No,16,0
+F1S ,18990,Gray,2,5.5,HD+,Android Lollipop 5,Octa Core,1.4,64,4,3075,76.0,154.5,7.38,160.0,OPPO,No,No,Yes,Yes,Yes,13,0,0,0,No,16,0
+F1S ,18990,Gold,2,5.5,HD+,Android Lollipop 5,Octa Core,1.4,64,4,3075,76.0,154.5,7.38,160.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,16,0
+F1S ,11990,Gray,2,5.5,HD+,Android Lollipop 5,Single Core,1.5,32,3,3075,76.0,154.5,7.38,160.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,16,0
+A71k ,8490,Blue,2,5.2,HD+,Android Nougat 7,Octa Core,1.8,16,3,3000,73.8,148.1,7.6,137.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,5,0
+A3s ,12990,Purple,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,32,3,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+F3 ,18000,Gold,2,5.5,FHD,Android Marshmallow 6,Octa Core,1.5,64,4,3200,75.2,153.3,7.3,153.0,OPPO,No,No,Yes,Yes,Yes,13,0,0,0,No,16,8
+A5 ,13500,Red,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,32,4,4230,75.6,156.1,8.2,170.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,8,0
+A83 ,13990,Red,2,5.7,HD+,Android Nougat 7,Octa Core,2.5,64,4,3180,73.1,150.5,7.7,143.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+F9 ,17000,Purple,2,6.3,FHD+,Android Oreo 8,Octa Core,2.0,64,4,3500,74.0,156.7,7.99,169.0,OPPO,No,Yes,No,Yes,Yes,16,2,0,0,No,16,0
+A3s ,15000,Purple,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,64,4,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+A3s ,14495,Red,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,64,4,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+A3s ,9500,Red,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,16,2,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+A3s ,9500,Purple,2,6.2,HD+,Android Oreo 8,Octa Core,1.8,16,2,4230,75.6,156.2,8.2,168.0,OPPO,No,No,Yes,Yes,Yes,13,2,0,0,No,8,0
+Reno 10x Zoom ,41990,Black,2,6.6,FHD+,Android Pie 9,Octa Core,2.8,256,8,4065,77.2,162.0,9.3,215.0,OPPO,No,Yes,No,Yes,Yes,48,13,8,0,No,16,0
+Reno 10x Zoom ,38990,Black,2,6.6,FHD+,Android Pie 9,Octa Core,2.8,128,6,4065,77.2,162.0,9.3,215.0,OPPO,No,Yes,No,Yes,Yes,48,13,8,0,No,16,0
+A9 2020 ,13990,White,2,6.52,HD+,Android Pie 9,Octa Core,1.8,128,4,5000,75.6,163.6,9.1,195.0,OPPO,No,Yes,No,Yes,Yes,48,8,2,2,No,16,0
+A12 ,11490,Black,2,6.22,HD+,Android Pie 9,Octa Core,1.8,64,4,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+A12 ,11490,Blue,2,6.22,HD+,Android Pie 9,Octa Core,1.8,64,4,4230,75.5,155.9,8.3,165.0,OPPO,No,Yes,No,Yes,Yes,13,2,0,0,No,5,0
+F11 Pro ,16990,Gray,2,6.5,FHD+,Android Pie 9,Octa Core,2.1,128,6,4000,76.1,161.3,8.8,190.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+F11 Pro ,16990,Black,2,6.5,FHD+,Android Pie 9,Octa Core,2.1,128,6,4000,76.1,161.3,8.8,190.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+R17 Pro ,31590,Blue,2,6.4,FHD+,Android Oreo 8,Octa Core,2.2,128,8,3700,74.6,157.6,7.9,183.0,OPPO,No,No,Yes,Yes,Yes,12,20,0,0,No,25,0
+A83 ,13490,Black,2,5.7,HD+,Android Nougat 7,Octa Core,2.5,32,3,3180,73.1,150.5,7.7,143.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+A83 ,9490,Red,2,5.7,HD+,Android Nougat 7,Octa Core,2.5,16,2,3180,73.1,150.5,7.7,143.0,OPPO,No,Yes,No,Yes,Yes,13,0,0,0,No,8,0
+F7 ,22990,Red,2,6.23,FHD+,Android Oreo 8,Octa Core,2.0,64,4,3400,75.3,156.0,7.8,158.0,OPPO,No,No,Yes,Yes,Yes,16,0,0,0,No,25,0
+F11 ,13990,Green,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,128,4,4020,76.1,162.0,8.3,188.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0
+F11 ,13990,Purple,2,6.53,FHD+,Android Pie 9,Octa Core,2.1,128,4,4020,76.1,162.0,8.3,188.0,OPPO,No,Yes,No,Yes,Yes,48,5,0,0,No,16,0

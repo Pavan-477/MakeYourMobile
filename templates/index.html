@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <marquee scrollamount="10" bgcolor="white"><font size="5">
+      Welcome to Make Your Mobile. A fun filled application that estimates the price of 
+      your mobile phone that is built on your customizations.
+      </font> </marquee>
+      
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: blanchedalmond; 
+            
+        }
+
+        form {
+            max-width: 900px;
+            margin: auto;
+            padding: 45px;
+            font-weight: bold;
+            background-color: #e1f0f9;
+            border-radius: 10prgb(165, 226, 232);
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+        }
+ 
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        .form-label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .form-radio-label {
+        display: inline;
+        margin-right: 5px;
+        
+        }
+  
+        .form-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+        }
+
+        .form-field {
+            width: 95%; 
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 7px;
+        }
+
+        .radio-group.inline .radio-option {
+        display: inline-block;
+        margin-right: 10px;
+        
+        }
+    
+        .radio-group.inline .form-radio-label {
+        display: inline;
+        margin-right: 5px;
+        }
+
+        .form-button {
+            width: 100%;
+            height: 1.2cm;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 7px;
+            cursor: pointer;
+        }
+        .form-button:hover {
+            background-color: #45a049;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 align="center">Make Your Mobile</h1>
+        <form action="{{url_for('predict')}}" method="POST">
+
+            <h3 align="center"><u>Design</u></h3>
+            <div class="form-group">
+                <label class="form-label" for="model">Which model's design would you like to have</label>
+                <select id="model" name="model" class="form-input">
+                    <option value="" selected disabled>Select a model </option>
+                    {% for brand, models in modelsByBrand.items() %}
+                    <optgroup class="brand-{{ brand }} model" label="{{ brand }}">
+                        {% for model in models %}
+                        <option value="{{ model }}">{{ model }}</option>
+                        {% endfor %}
+                    </optgroup>
+                    {% endfor %}
+                </select>
+            </div>
+
+            
+
+            <div class="form-group">
+                <label class="form-label" for="color">Color</label>
+                <select id="color" name="color" class="form-input">
+                    <option value="" selected disabled>Select a Color</option>
+                    {% for color in color %}
+                    <option value="{{ color }}">{{ color }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            
+            <h3 align="center"><u>Software </u></h3>
+
+            <div class="form-group">
+                <label class="form-label" for="brand">Whose UI would you like to have </label>
+                <select id="brand" name="brand" class="form-input">
+                    <option value="" selected disabled>Select a Brand</option>
+                    {% for brand in brands %}
+                    <option value="{{ brand }}">{{ brand }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="os">Which Android version do you want</label>
+                <select id="os" name="os" class="form-input">
+                    <option value="" selected disabled>Select an OS</option>
+                    {% for os in os %}
+                    <option value="{{ os }}">{{ os }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <h3 align="center"><u>Display</u></h3>
+            <div class="form-group inline">
+                <label class="form-label" for="display_size">Specify the Display size</label>
+                <input type="text" id="display_size" name="display_size" placeholder="Display sizes available from 4 inches to 6.99 inches" class="form-input form-field">
+            </div>
+            
+
+            <div class="form-group">
+                <label class="form-label" for="resolution">Display Type</label>
+                <select id="resolution" name="resolution" class="form-input">
+                    <option value="" selected disabled>Select a Type</option>
+                    {% for resolution in resolution %}
+                    <option value="{{ resolution }}">{{ resolution }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            
+            <h3 align="center"><u>Performance and Storage</u></h3>
+
+            <div class="form-group inline">    
+                <label class="form-label" for="mp_speed">Clock speed of the processor</label>
+                <input type="text" id="mp_speed" name="mp_speed" placeholder="Speeds from 1Ghz to 3Ghz" class="form-input form-field">
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="num_cores">Processing cores</label>
+                <select id="num_cores" name="num_cores" class="form-input">
+                    <option value="" selected disabled>Select processing cores </option>
+                    {% for num_cores in num_cores %}
+                    <option value="{{ num_cores }}">{{ num_cores }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group inline">
+                <label class="form-label" for="battery">Battery</label>
+                <input type="text" id="battery" name="battery" placeholder="Battery (mAh)" class="form-input form-field">
+            </div>            
+            <div class="form-group">
+                <label class="form-label" for="int_memory">Internal memory</label>
+                <select id="int_memory" name="int_memory" class="form-input">
+                    <option value="" selected disabled>Select a internal memory</option>
+                    {% for int_memory in int_memory %}
+                    <option value="{{ int_memory }}">{{ int_memory }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+ 
+            
+            <div class="form-group">
+                <label class="form-label" for="ram">RAM</label>
+                <select id="ram" name="ram" class="form-input">
+                    <option value="" selected disabled>Select Ram</option>
+                    {% for ram in ram %}
+                    <option value="{{ ram }}">{{ ram }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <h3 align="center"><u>Cameras</u></h3>
+            
+            <div class="form-group">
+                <label class="form-label" for="primary_cam">Main camera (Rear) MP</label>
+                <select id="primary_cam" name="primary_cam" class="form-input">
+                    <option value="" selected disabled>Select MP</option>
+                    {% for primary_cam in primary_cam %}
+                    <option value="{{ primary_cam }}">{{ primary_cam }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="secondary_cam">Ultra wide Camera</label>
+                <select id="secondary_cam" name="secondary_cam" class="form-input">
+                    <option value="" selected disabled>0 means No</option>
+                    {% for secondary_cam in secondary_cam %}
+                    <option value="{{ secondary_cam }}">{{ secondary_cam }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="tertiary_cam">Telephoto lens</label>
+                <select id="tertiary_cam" name="tertiary_cam" class="form-input">
+                    <option value="" selected disabled>0 means No</option>
+                    {% for tertiary_cam in tertiary_cam %}
+                    <option value="{{ tertiary_cam }}">{{ tertiary_cam }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+ 
+            <div class="form-group">
+                <label class="form-label" for="quaternary_cam">Macro/Depth lens</label>
+                <select id="quaternary_cam" name="quaternary_cam" class="form-input">
+                    <option value="" selected disabled>0 means No</option>
+                    {% for quaternary_cam in quaternary_cam %}
+                    <option value="{{ quaternary_cam }}">{{ quaternary_cam }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+ 
+            <div class="form-group">
+                <label class="form-label" for="f_cam_primary">Selfie Camera </label>
+                <select id="f_cam_primary" name="f_cam_primary" class="form-input">
+                    <option value="" selected disabled>Select MP</option>
+                    {% for f_cam_primary in f_cam_primary %}
+                    <option value="{{ f_cam_primary }}">{{ f_cam_primary }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+ 
+            <div class="form-group">
+                <label class="form-label" for="f_cam_secondary">Wide Angle Selfie</label>
+                <select id="f_cam_secondary" name="f_cam_secondary" class="form-input">
+                    <option value="" selected disabled>0 means No</option>
+                    {% for f_cam_secondary in f_cam_secondary %}
+                    <option value="{{ f_cam_secondary }}">{{ f_cam_secondary }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+ 
+
+            <div class="form-group">
+                <div class="radio-group inline">
+                    <label class="form-radio-label" for="Low_light_sensor">Low light Sensor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    <span class="radio-option">
+                        <input type="radio" id="Yes" name="Low_light_sensor" value="Yes" class="form-radio">
+                        <label class="form-radio-label" for="Yes">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </span>
+                    <span class="radio-option">
+                        <input type="radio" id="No" name="Low_light_sensor" value="No" class="form-radio">
+                        <label class="form-radio-label" for="No">No</label>
+                    </span>
+                </div>
+            </div>
+            
+            <h3 align="center"><u>Sims and connectivity</u></h3>
+ 
+            <div class="form-group">
+              <div class="radio-group inline">
+                  <label class="form-radio-label" for="Sims">Sim slots&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                  <span class="radio-option">
+                      <input type="radio" id="1" name="Sims" value="1" class="form-radio">
+                      <label class="form-radio-label" for="1">1</label>
+                  </span>
+                  <span class="radio-option">
+                      <input type="radio" id="2" name="Sims" value="2" class="form-radio">
+                      <label class="form-radio-label" for="2">2</label>
+                  </span>
+              </div>
+          </div>
+
+            <div class="form-group">
+                <div class="radio-group inline">
+                    <label class="form-radio-label" for="5G_connectivity">5G connectivity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    <span class="radio-option">
+                        <input type="radio" id="Yes" name="5G_connectivity" value="Yes" class="form-radio">
+                        <label class="form-radio-label" for="Yes">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </span>
+                    <span class="radio-option">
+                        <input type="radio" id="No" name="5G_connectivity" value="No" class="form-radio">
+                        <label class="form-radio-label" for="No">No</label>
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="radio-group inline">
+                    <label class="form-radio-label" for="VOLTE_connectivity">VoLTE connectivity&nbsp;&nbsp;</label>
+                    <span class="radio-option">
+                        <input type="radio" id="Yes" name="VOLTE_connectivity" value="Yes" class="form-radio">
+                        <label class="form-radio-label" for="Yes">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </span>
+                    <span class="radio-option">
+                        <input type="radio" id="No" name="VOLTE_connectivity" value="No" class="form-radio">
+                        <label class="form-radio-label" for="No">No</label>
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="radio-group inline">
+                    <label class="form-radio-label" for="4G_connectivity">4G connectivity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    <span class="radio-option">
+                        <input type="radio" id="Yes" name="4G_connectivity" value="Yes" class="form-radio">
+                        <label class="form-radio-label" for="Yes">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </span>
+                    <span class="radio-option">
+                        <input type="radio" id="No" name="4G_connectivity" value="No" class="form-radio">
+                        <label class="form-radio-label" for="No">No</label>
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="radio-group inline">
+                    <label class="form-radio-label" for="3G_connectivity">3G connectivity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    <span class="radio-option">
+                        <input type="radio" id="Yes" name="3G_connectivity" value="Yes" class="form-radio">
+                        <label class="form-radio-label" for="Yes">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </span>
+                    <span class="radio-option">
+                        <input type="radio" id="No" name="3G_connectivity" value="No" class="form-radio">
+                        <label class="form-radio-label" for="No">No</label>
+                    </span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="radio-group inline">
+                    <label class="form-radio-label" for="2G_connectivity">2G connectivity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    <span class="radio-option">
+                        <input type="radio" id="Yes" name="2G_connectivity" value="Yes" class="form-radio">
+                        <label class="form-radio-label" for="Yes">Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                    </span>
+                    <span class="radio-option">
+                        <input type="radio" id="No" name="2G_connectivity" value="No" class="form-radio">
+                        <label class="form-radio-label" for="No">No</label>
+                    </span>
+                </div>
+            </div>
+            
+            <hr>
+            <button type="submit" class="form-button">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
